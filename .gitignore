@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+.next/
+*.log
+.DS_Store
+# Ignora archivos temporales
+*.tmp
+# Ignora la carpeta de build
+build/
